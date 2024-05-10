@@ -11,3 +11,6 @@ Slides:
   
 Resources:
   https://on24static.akamaized.net/event/45/17/63/0/rt/1/documents/resourceList1715096973661/classresources1715096973661.pdf
+
+ChatGPT APIs:
+  https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4 
